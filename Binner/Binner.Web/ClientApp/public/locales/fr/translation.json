@@ -955,8 +955,7 @@
     "proSubscriptionRequired": "Nécessite un abonnement de niveau Professionnel. <1>Cliquez ici</1> pour plus de détails."
   },
   "footer": {
-    "version": "Version",
-    "promo": "Essayez <1>Binner Cloud Gratuit</1>"
+    "version": "Version"
   },
   "notification": {
     "versionBanner": {

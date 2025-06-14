@@ -183,11 +183,6 @@ export function BasicLayout(props) {
         </div>
         <div className={`promo ${window.avatar ? 'masked' : ''}`}>
           <div style={{ marginBottom: '10px' }}>{version ? <span>{t('footer.version', "Version")}: {version}</span> : ""}</div>
-          <span>
-            <Trans i18nKey="footer.promo">
-              Try <a href="https://binner.io">Binner Cloud Free</a>
-            </Trans>
-          </span>
         </div>
         
         <ErrorModal context={error} />

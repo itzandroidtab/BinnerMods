@@ -953,8 +953,7 @@
 		"proSubscriptionRequired": "Richiede un abbonamento di livello Professional. <1>Clicca qui</1> per dettagli."
 	},
 	"footer": {
-		"version": "Version",
-		"promo": "Try <1>Binner Cloud Free</1>"
+		"version": "Version"
 	},
 	"notification": {
 		"versionBanner": {

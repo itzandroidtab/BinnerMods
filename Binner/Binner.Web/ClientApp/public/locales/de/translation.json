@@ -954,8 +954,7 @@
     "proSubscriptionRequired": "Erfordert ein Professional Abonnement.<1>Hier klicken</1> für weitere Details."
   },
   "footer": {
-    "version": "Version",
-    "promo": "Versuchen Sie <1>Binner Cloud Free</1>"
+    "version": "Version"
   },
   "notification": {
     "versionBanner": {

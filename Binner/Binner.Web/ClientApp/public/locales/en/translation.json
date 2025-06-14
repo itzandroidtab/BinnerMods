@@ -1080,8 +1080,7 @@
     "proSubscriptionRequired": "Requires a Professional level subscription. <1>Click here</1> for details."
   },
   "footer": {
-    "version": "Version",
-    "promo": "Try <1>Binner Cloud Free</1>"
+    "version": "Version"
   },
   "notification": {
     "versionBanner": {

@@ -808,8 +808,7 @@
     }
   },
   "footer": {
-    "version": "版本",
-    "promo": "Try <1>Binner Cloud Free</1>"
+    "version": "版本"
   },
   "notification": {
     "versionBanner": {

@@ -954,8 +954,7 @@
     "proSubscriptionRequired": "Profesyonel düzeyde abonelik gerektirir. Ayrıntılar için <1>burayı tıklayın</1>."
   },
   "footer": {
-    "version": "Sürüm",
-    "promo": "<1>Binner Cloud Free</1>'i deneyin"
+    "version": "Sürüm"
   },
   "notification": {
     "versionBanner": {
